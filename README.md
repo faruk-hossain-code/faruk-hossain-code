@@ -89,7 +89,7 @@ I am a Full-Stack MERN Developer passionate about building modern, high-performa
 ## Github Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hossain-faruk&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faruk-hossain&theme=radical" width="100%" />
 </p>
 
 ## Contribution Snake
